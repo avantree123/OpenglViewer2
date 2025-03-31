@@ -13,5 +13,5 @@ there are 4 projects in.
 to move next project, setting the project as starting project.
 
 
-# results in each folders.
+- screen captures of results are in each folder.
 
